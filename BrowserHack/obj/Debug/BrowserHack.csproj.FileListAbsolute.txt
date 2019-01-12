@@ -1,0 +1,10 @@
+E:\TumProjeler\BrowserHack\BrowserHack\bin\Debug\BrowserHack.exe.config
+E:\TumProjeler\BrowserHack\BrowserHack\bin\Debug\BrowserHack.exe
+E:\TumProjeler\BrowserHack\BrowserHack\bin\Debug\BrowserHack.pdb
+E:\TumProjeler\BrowserHack\BrowserHack\obj\Debug\BrowserHack.csprojResolveAssemblyReference.cache
+E:\TumProjeler\BrowserHack\BrowserHack\obj\Debug\BrowserHack.Form1.resources
+E:\TumProjeler\BrowserHack\BrowserHack\obj\Debug\BrowserHack.Properties.Resources.resources
+E:\TumProjeler\BrowserHack\BrowserHack\obj\Debug\BrowserHack.csproj.GenerateResource.Cache
+E:\TumProjeler\BrowserHack\BrowserHack\obj\Debug\BrowserHack.csproj.CoreCompileInputs.cache
+E:\TumProjeler\BrowserHack\BrowserHack\obj\Debug\BrowserHack.exe
+E:\TumProjeler\BrowserHack\BrowserHack\obj\Debug\BrowserHack.pdb
